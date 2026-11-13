@@ -1,0 +1,16 @@
+{
+  "name": "tada",
+  "owner": {
+    "name": "TADA contributors"
+  },
+  "metadata": {
+    "description": "Test-Assured Development Assistance plugins for Codex, Claude Code and Cursor."
+  },
+  "plugins": [
+    {
+      "name": "tada",
+      "source": "tada",
+      "description": "Test-Assured Development Assistance for everyday software development."
+    }
+  ]
+}

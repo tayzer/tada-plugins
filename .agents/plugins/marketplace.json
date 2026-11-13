@@ -1,0 +1,17 @@
+{
+  "name": "tada",
+  "plugins": [
+    {
+      "name": "tada",
+      "source": {
+        "source": "local",
+        "path": "./tada"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
