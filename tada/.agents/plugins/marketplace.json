@@ -4,8 +4,8 @@
     {
       "name": "tada",
       "source": {
-        "path": "./",
-        "source": "local"
+        "source": "local",
+        "path": "./"
       },
       "policy": {
         "authentication": "ON_INSTALL",

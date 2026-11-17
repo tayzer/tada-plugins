@@ -6,8 +6,8 @@
   },
   "plugins": [
     {
-      "name": "tada",
-      "source": "./tada"
+      "source": "./tada",
+      "name": "tada"
     }
   ]
 }

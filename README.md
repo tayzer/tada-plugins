@@ -1,6 +1,6 @@
 # TADA plugin marketplace
 
-This repository is the install source for the **TADA** (Test-Assured Development Assistance) plugin in Codex, Claude Code and Cursor. It contains version `0.1.0-alpha.13.107` of the plugin. Release automation in [tayzer/TADA](https://github.com/tayzer/TADA) publishes it; do not edit it by hand.
+This repository is the install source for the **TADA** (Test-Assured Development Assistance) plugin in Codex, Claude Code and Cursor. It contains version `0.1.0-alpha.13.109` of the plugin. Release automation in [tayzer/TADA](https://github.com/tayzer/TADA) publishes it; do not edit it by hand.
 
 With TADA enabled, your coding agent agrees executable Gherkin acceptance with you before implementing, protects the approved expectations byte for byte, and reports `PASS`, `FAIL` or `INDETERMINATE` from retained evidence. It supports C#/.NET APIs with Reqnroll and MSTest on Windows x64. Results are local advisory (L1).
 
