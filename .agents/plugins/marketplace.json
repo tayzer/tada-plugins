@@ -4,12 +4,12 @@
     {
       "name": "tada",
       "source": {
-        "path": "./tada",
-        "source": "local"
+        "source": "local",
+        "path": "./tada"
       },
       "policy": {
-        "installation": "AVAILABLE",
-        "authentication": "ON_INSTALL"
+        "authentication": "ON_INSTALL",
+        "installation": "AVAILABLE"
       },
       "category": "Productivity"
     }
